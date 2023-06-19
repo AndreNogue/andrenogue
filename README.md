@@ -10,6 +10,8 @@
 ### Projeto
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrenogue&repo=TikTokProject&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://tiktok-clone-ebac-27198.web.app/" targer="_blank"> <br>
+Clique aqui para ver o app rodanddo
 
 ### Linguagens utilizadas
 
