@@ -52,3 +52,6 @@ journey
       Criar projetos próprios: Planejado
       Aprender frameworks (ex: React, Flask): Planejado
 ```
+
+---- 
+![Snake animation](https://github.com/AndreNogue/AndreNogue/blob/output/github-contribution-grid-snake.svg)
