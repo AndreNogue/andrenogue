@@ -43,7 +43,7 @@
 journey
     title Minha trilha de aprendizado
     section Início
-      Primeiros passos com Git e GitHub: 2024-2025
+      Primeiros passos com Git e GitHub: 2025 - 2026
       Estudando Python básico: 2025 - 2026
     section Web
       HTML e CSS: Em progresso
@@ -54,4 +54,4 @@ journey
 ```
 
 ---- 
-[Snake animation](https://github.com/AndreNogue/AndreNogue/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AndreNogue/AndreNogue/blob/output/github-contribution-grid-snake.svg)
