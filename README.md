@@ -44,7 +44,7 @@ journey
     title Minha trilha de aprendizado
     section Início
       Primeiros passos com Git e GitHub: 2024-2025
-      Estudando Python básico: 2024-2025
+      Estudando Python básico: 2025 - 2026
     section Web
       HTML e CSS: Em progresso
       JavaScript: Em progresso
