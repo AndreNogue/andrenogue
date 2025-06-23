@@ -54,4 +54,4 @@ journey
 ```
 
 ---- 
-![Snake animation](https://github.com/AndreNogue/AndreNogue/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/AndreNogue/AndreNogue/blob/output/github-contribution-grid-snake.svg)
